@@ -1,0 +1,9 @@
+Creating a file and putting content into it.
+  I am going to learn exciting tool. 
+  This content is being created in Linux using "touch", "vi"...
+  Save the file and view it in both cat and less
+  Go back into the file in vi and enter some more content. 
+  It's not weird, i always though Linux is unecessary but it's fun.
+  But does this has grammarly because i do lot of spelling mistake while typing! just kidding and curious.
+
+
